@@ -91,7 +91,7 @@ This project was built to practice:
 
 ## Screenshot
 
-(Add screenshot here later)
+(Will add later)
 
 ---
 
